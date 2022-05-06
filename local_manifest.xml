@@ -35,14 +35,14 @@ fetch="https://github.com/Archsploit" />
 
 <!-- packages/apps/Settings  -->
 <remove-project name="LineageOS/android_packages_apps_Settings" />
-<project path="packages/apps/Settings" name="lineage_packages_apps_Settings" remote="Archsploit" revision="lineage-19.1" clone-depth="1" />
+<project path="packages/apps/Settings" name="lineage_packages_apps_Settings" remote="Archsploit" revision="lineage-19.1" />
 
 <!-- frameworks/opt/net/ims  -->
 <remove-project name="platform/frameworks/opt/net/ims" />
-<project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="Archsploit" revision="lineage-19.1" clone-depth="1" />
+<project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="Archsploit" revision="lineage-19.1" />
 
 <!-- packages/modules/Wifi  -->
 <remove-project name="LineageOS/android_packages_modules_Wifi" />
-<project path="packages/modules/Wifi" name="lineage_packages_modules_Wifi" remote="Archsploit" revision="lineage-19.1" clone-depth="1" />
+<project path="packages/modules/Wifi" name="lineage_packages_modules_Wifi" remote="Archsploit" revision="lineage-19.1" />
 
 </manifest>
